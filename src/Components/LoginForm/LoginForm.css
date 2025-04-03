@@ -41,3 +41,10 @@
     font-size: 14.5px;
     margin: -15px 0 15px;
 }
+.remember-forgot label input{
+    accent-color: #fff;
+    margin-right: 4px;
+}
+.remember-forgot a{
+    color:rgb(56, 56, 235)
+}
